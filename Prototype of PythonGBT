@@ -1,0 +1,16 @@
+#Tutorial
+print("First, only few topics can be discussed currently.")
+print("This being: ")
+
+#Name for AI to call player
+print("What is your name?")
+name = str(input())
+print("Hi," + " " + name + "!")
+
+#First discussion / only discussion
+print("What do you want to talk about, or need information from?")
+discussion1 = str(name + " " + input())
+if discussion1 == "What is your name?" or "what is your name?" or "what is your name" or "What is your name" or "What's your name?" or "What's your name" or "what's your name?" or "what's your name":
+    print("My name should be PythonGBT, unless the creator changed it recently.")
+if discussion1 == "Is my favorite game Minecraft?" or "Is my favorite game minecraft?" or "is my favorite game Minecraft?" or "is my favorite game minecraft" or "Is my favorite game Minecraft" or "Is my favorite game minecraft" or "is my favorite game Minecraft":
+    print(str(range("yes", "no")))
