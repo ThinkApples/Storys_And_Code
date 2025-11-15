@@ -1,0 +1,1 @@
+Welcome to "Storys And Code!" Here you may find low forms of Python code, and Stories of soon to be many kinds! After getting many contributers, this place won;t such a reckage. (Especally since I'm the only one here...)
